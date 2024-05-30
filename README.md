@@ -20,5 +20,3 @@ We welcome contributions from the community! To add a new client or update exist
 
 1. **Fork the Repository**: Click the "Fork" button at the top right corner of this page to create a copy of this repository under your GitHub account.
 2. **Clone Your Fork**: Clone the forked repository to your local machine.
-3. git clone https://github.com/your-username/Minecraft-Bedrock-Clients.git
-   cd Minecraft-Bedrock-Clients
