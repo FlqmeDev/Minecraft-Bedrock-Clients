@@ -2,7 +2,7 @@
 
 Welcome to the **Minecraft Bedrock Clients** repository! This project aims to provide a comprehensive list of Minecraft Bedrock clients. Click on the client you want to explore to learn more about its features and how to download it.
 
-![Minecraft Bedrock](banner.png)
+![Minecraft Bedrock](images/banner.png)
 
 ## 📜 Table of Contents
 
